@@ -35,6 +35,7 @@ AI-Powered Resume Analyzer is a modern web application that leverages AI to anal
 ## 🛠️ Tech Stack
 
 - **React 19** & **TypeScript**
+- **Claude Sonnet 4** AI Model
 - **React Router 7** (with SSR support)
 - **Vite** for fast development
 - **Tailwind CSS** & **tw-animate-css** for styling and animation
